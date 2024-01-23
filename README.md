@@ -1,3 +1,9 @@
+
+![image](https://github.com/abhisekmohanty2000/contact_page/assets/84370277/df1f7397-d28e-49ac-84c2-7b239071b633)
+
+Figma design - https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=2-5&mode=design&t=GEBmHgA2gJhN8EtJ-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
