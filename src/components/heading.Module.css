@@ -1,0 +1,15 @@
+
+
+.contact-heading{
+    display: flex;
+    margin-left: 170px;
+    font-weight: 800px;
+    font-size: 48px;
+}
+.content-text{
+    display: flex;
+    margin-left: 170px;
+    margin-right: 480px;
+    word-spacing: 1px;
+     
+}

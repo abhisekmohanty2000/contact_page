@@ -1,0 +1,38 @@
+
+
+.nav-bar {
+    display: flex;  
+    list-style-type: none;
+    height: 85px;
+    align-items: center;
+    gap: 24px;
+    justify-content: left;
+    margin-right: 80px;
+    font-size: 17px;
+    word-spacing: 1px;
+}
+.logo{
+    margin-left: 110px;  
+}
+.nav-bar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+    justify-content: right;
+    margin-left: 760px;
+}
+
+.nav-bar ul :hover {
+color: skyblue;
+/* transform: scale(1.2); */
+}
+
+.mode{
+    /* display: inline-block;
+    
+    
+    font-size: 16px;
+    cursor: pointer; */
+    padding: 1px;
+    text-align: center;
+}

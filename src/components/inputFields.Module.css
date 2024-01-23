@@ -1,0 +1,63 @@
+.black-button {
+  margin-top: 50px;
+  display: flex;
+  margin-left: 170px;
+  gap: 40px;
+  border-color: black;
+}
+.chat-btn {
+  background-color: black;
+  color: white;
+  height: 24px;
+}
+.call-btn {
+  background-color: black;
+  color: white;
+  height: 24px;
+}
+.email-btn {
+  display: flex;
+  margin-left: 189px;
+  margin-top: 24px;
+  width: 277px;
+  border-color: black;
+  height: 26px;
+  justify-content: center;
+  align-items: center;
+}
+.input-fields {
+  display: flex;
+  margin-left: 190px;
+  margin-top: 34px;
+  width: 270px;
+  height: 19px;
+  text-align: center;
+}
+
+.input-fields-text {
+  display: flex;
+  margin-left: 190px;
+  margin-top: 24px;
+  width: 270px;
+  height: 70px;
+}
+.submit {
+  display: flex;
+  margin-left: 365px;
+  margin-top: 24px;
+  width: 99px;
+  background-color: black;
+  color: white;
+  justify-content: center;
+}
+.image {
+  display: flex;
+  margin-left: 620px;
+  max-height: 420px;
+  position: absolute;
+  top: 213px;
+}
+
+.submit :hover {
+  background-color: red;
+}
